@@ -1,2 +1,3 @@
 # test-django-rest-framework-API-
-Reference: https://www.youtube.com/watch?v=B38aDwUpcFc
+Document: https://www.django-rest-framework.org/api-guide/generic-views/
+Video: https://www.youtube.com/watch?v=B38aDwUpcFc
